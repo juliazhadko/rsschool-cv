@@ -53,3 +53,16 @@ I think these are the most valuable characteristics of mine which describe me as
 **Experience:**
 
 I don't have experience in developing. But now I have been working for almost 2 years in SEO.
+**Education:**
+
+* RS courses (2021 - *)
+
+* IT-Academy (2020)
+
+* Belarusian State University of Economics (2014-2018)
+
+* Minsk College of Finance and Economics (2012 - 2014)
+
+**English:**
+
+Pre-Intermediate level. I have classes two times a week.
