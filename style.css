@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url('1.jpg');
+    background-size: cover;
+}
+.header__wrapper {
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 30px;
+    
+
+}
+.header__title {
+    display: flex;
+    flex-direction: column;
+}
+.header__h1, .header__promo {
+    font-family: 'Otomanopee One', sans-serif;
+}
+.header__img img {
+    width: 250px;
+    border-radius: 30%;
+}
+.main {
+    width: 57%;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 20px;
+    font: 18px Arial, sans-serif;
+}
+.main__paragraph {
+    margin: 15px 0;
+    color: #800000;
+}
+.footer {
+    height: 140px;
+    background-color: white;
+}
+.footer__link {
+   text-align: center;
+   padding-top: 30px;
+   
+}
+.footer__link a {
+    color: black;
+    cursor: pointer;
+    
+}
+.footer__logo {
+    text-align: center;
+}
+.footer__logo img {
+    width: 100px;
+    
+}
+.footer__p {
+    text-align: center;
+    margin: 10px;
+}
